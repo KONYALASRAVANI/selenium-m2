@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T15:47:14 IST" name="Default suite" finished-at="2024-10-01T15:47:14 IST" duration-ms="229">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T15:47:14 IST" name="Default test" finished-at="2024-10-01T15:47:14 IST" duration-ms="229">
+      <class name="DataProvider.Dataprovidertest">
+        <test-method signature="bookTicketTest(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Dataprovidertest@35d019a3]" started-at="2024-10-01T15:47:14 IST" name="bookTicketTest" data-provider="data" finished-at="2024-10-01T15:47:14 IST" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+        <test-method signature="bookTicketTest(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Dataprovidertest@35d019a3]" started-at="2024-10-01T15:47:14 IST" name="bookTicketTest" data-provider="data" finished-at="2024-10-01T15:47:14 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kolkata]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+        <test-method signature="bookTicketTest(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.Dataprovidertest@35d019a3]" started-at="2024-10-01T15:47:14 IST" name="bookTicketTest" data-provider="data" finished-at="2024-10-01T15:47:14 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kochi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+      </class> <!-- DataProvider.Dataprovidertest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
